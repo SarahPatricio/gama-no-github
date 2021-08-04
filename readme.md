@@ -1,1 +1,3 @@
-Este curso está me fazendo sair da minha zona de conforto e mudar completamente meu pensamento sobre tecnologia.
+
+estudar sobre dev está mundando minha percepção sobre o mundo tech.
+
